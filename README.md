@@ -18,8 +18,8 @@ assistant. Next.js (App Router) + PostgreSQL (Drizzle ORM) + OpenRouter.
 ## 2. Install
 
 ```bash
-git clone <this repo> mr00100-ai
-cd mr00100-ai
+git clone https://github.com/mr00100/MR00100-AI-Assistant.git
+MR00100-AI-Assistant
 npm install
 ```
 
